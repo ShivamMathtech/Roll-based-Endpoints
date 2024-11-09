@@ -6,3 +6,5 @@ const searhProducsCtrls = (req, res) => {
     data: [], // Placeholder for search results
   });
 };
+
+module.exports = searhProducsCtrls;
